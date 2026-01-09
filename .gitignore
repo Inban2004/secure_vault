@@ -1,0 +1,11 @@
+# password files
+passwords.json 
+
+.env 
+secret.key
+
+#  folder 
+env/
+__pycache__/
+
+
